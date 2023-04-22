@@ -8,7 +8,7 @@ const Banner = () => {
         <div className ="text-content">
         <h1>SALES</h1>
         <p>
-        Welcome to our shoe store!
+        Welcome to our shoe store..!
         We are dedicated to providing you with high-quality footwear that not only looks great but feels comfortable too.
         </p>
         <div className="ctas">
